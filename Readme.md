@@ -1,1 +1,1 @@
-#This contains colab Jupyter notebooks of `PyTorch`
+# This contains colab Jupyter notebooks of `PyTorch`
